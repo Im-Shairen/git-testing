@@ -14,7 +14,9 @@ Git commands
 
 -git checkout: Allows to change versions using #´s saved in the repository
 
--git push: Sends local commits to remote repositories
+git remote add origin https://github.com/Im-Shairen/Im-Shairen.git /*link of the new repository*/: Links the remote branch with the local branch
+
+-git push -u origin main: Sends local commits to remote repositories
 
 -git pull: Gets and fusion remotes repositories into local repository
 
