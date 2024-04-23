@@ -1,0 +1,21 @@
+Git commands
+
+-git init: Git init starts a new repository in the file
+
+-git add /*archive.format*/: adds what will be commited
+
+-git rm /*archive.format*/: removes what will be commited
+
+-git status: shows the state of the staging in are or theres something to add
+
+-git commit -m /*message*/ " ": takes the changes in the staging in area and saves it to history repository
+
+-git commit -a /*all*/: allows to add archives that are no in the staging area, commits every modified archive
+
+-git checkout: Allows to change versions using #´s saved in the repository
+
+-git push: Sends local commits to remote repositories
+
+-git pull: Gets and fusion remotes repositories into local repository
+
+-git fetch and merge: downloads remote repositories, merge fusions the changes into the local branch
